@@ -11,7 +11,7 @@ Web Developer @radiopopular, PT
 ## Bio
 
 - Master's degree in Instituto Politécnico de Bragança (Portugal)
-- Linux daily user since 2012 (currently with Fedora)
+- Linux user (currently with Fedora)
 - Experienced in PHP
 
 ## Contact me
