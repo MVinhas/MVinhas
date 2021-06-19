@@ -5,7 +5,7 @@ Web Developer @radiopopular, PT
 
 ## Currently working on
 
-[liquet](https://github.com/MVinhas/liquet): CMS
+[liquet](https://github.com/MVinhas/liquet) - no nonsense CMS
 
 ## Contact me
 
