@@ -5,7 +5,7 @@ Web Developer @radiopopular, PT
 
 ## Currently working on
 
-[mvinhas-blog](https://github.com/MVinhas/mvinhas-blog): PHP CMS, made from scratch
+[liquet](https://github.com/MVinhas/liquet): CMS
 
 ## Contact me
 
