@@ -3,14 +3,8 @@
 Web Developer @radiopopular, PT
 
 
-## Currently working on
-
-[liquet](https://github.com/MVinhas/liquet) - no nonsense CMS
-
 ## Contact me
 
 Email: [dev.mvinhas](mailto:dev.mvinhas@gmail.com)
 
 LinkedIn: [micael-vinhas](https://www.linkedin.com/in/micael-vinhas-74bab1112)
-
-Side project: [Poupa Pilim (PT)](https://www.poupapilim.com)
