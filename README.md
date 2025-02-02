@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Web Developer @radiopopular, PT
+Software Engineer @LastPass
 
 
 ## Contact me
