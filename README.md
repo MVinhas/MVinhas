@@ -7,6 +7,8 @@ A huge book lover, especially non-fiction, I love to read biographies, history b
 
 Planning to start a blog, so I can leverage my passion for writing, but I still need to improve at my game, I don't want to bs anyone with my content. Either I really know my stuff or I don't want to share it.
 
+Podcasts? You got it! Huberman Lab, Darknet Diaries and Lex Fridman are currently the top 3 on my list. I barely have time for add another one into the mix but I'm currently happy with the set I have here.
+
 Lastly, proudly a father of one and a avid runner. Four marathons in (as of 2025) and still with aspirations to run a marathon in under 3:30:00 - let's see if my HR zone training will gets me there!
 
 
