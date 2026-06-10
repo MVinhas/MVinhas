@@ -1,15 +1,19 @@
-# Welcome 👋
+# Hi there, I'm Micael Vinhas 👋
 
-Hi there, I'm a Software Engineer whose career is moving towards a more security-based role.
-During most of my career I used PHP and it is still my favourite programming language, despite all the hate it receives until this day. However, I'm more into security related things, namely incident response, abuse mitigation and threat modeling.
+First and foremost, I am a **husband, father, and son**. My family is my baseline, and everything I build or pursue is rooted in creating a meaningful, grounded life with them. 
 
-A huge book lover, especially non-fiction, I love to read biographies, history books and books where I can learn from the best. From a career perspective my favourite one is the Staff Engineer's Path by Tanya Reilly, really great book even for mid-levels who aspire to a more senior role.
+Professionally, I am a Security Engineer focused on building resilient systems. I lean toward technical minimalism, continuous learning, and quiet craftsmanship over industry noise.
 
-Planning to start a blog, so I can leverage my passion for writing, but I still need to improve at my game, I don't want to bs anyone with my content. Either I really know my stuff or I don't want to share it.
+---
 
-Podcasts? You got it! Huberman Lab, Darknet Diaries and Lex Fridman are currently the top 3 on my list. I barely have time for add another one into the mix but I'm currently happy with the set I have here.
+### 🛡️ What I Do & What I Value
+* **The Day Job:** Transitioning deeply into security, specifically incident response, abuse mitigation, and threat modeling. 
+* **The Tools:** I still have a massive appreciation for native **PHP** and clean, optimized code, despite the internet trends. 
+* **The Content:** I care about depth over speed. I read non-fiction (history, biographies) and write only when I truly know the subject and have genuine value to pass on—no fluff, no BS.
+* **The Audio:** Currently learning from systems-thinking and long-form spaces like *Darknet Diaries*, *Huberman Lab*, and *Lex Fridman*.
 
-Lastly, proudly a father of one and a avid runner. Four marathons in (as of 2025) and still with aspirations to run a marathon in under 3:30:00 - let's see if my HR zone training will gets me there!
+### 🏃‍♂️ Beyond the Screen
+When the laptop closes, I'm usually spending quality time with my family or out on the asphalt. I'm an avid runner with four marathons under my belt, currently using heart rate zone training to quietly chase a sub-3:30:00 finish.
 
 
 ## Contact me
